@@ -1,5 +1,6 @@
 ### Hi there, I'm Anant Kaul. <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
-[![Anant Kaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantkaul)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anant Kaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantkaul)](https://github.com/anuraghazra/github-readme-stats)-->
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=anantkaul&show_icons=true&hide_border=true)" />
 
 
 - 🔭 I’m currently working on ...
