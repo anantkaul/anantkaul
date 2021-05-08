@@ -1,4 +1,4 @@
-### Aloha, I'm Anant Kaul. <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="40px">
+### Aloha, I'm Anant Kaul. <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="32px">
 
 
 - 🔭 I’m currently working on Cloud, Big Data & Cybersecurity.
@@ -13,7 +13,7 @@
 - 😄 Pronouns: Kali, CEH, Cloud Architect & Data Analyst.
 - ⚡ Fun fact: Combining “Big Data” with “Cybersecurity” using “Cloud” makes it ultra powerful.
 
-![Anant Kaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantkaul&show_icons=true&theme=dracula)
+![Anant Kaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantkaul&show_icons=true&theme=radical)
 <!--<img align="bottom" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=anantkaul&show_icons=true&hide_border=true&theme=dracula)" />-->
 
 [twitter]: https://twitter.com/AnantKaul_
