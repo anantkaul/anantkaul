@@ -14,7 +14,7 @@
 - 😄 Pronouns: Kali, CEH, Cloud Architect & Data Analyst.
 - ⚡ Fun fact: Combining “Big Data” with “Cybersecurity” using “Cloud” makes it ultra powerful.
 
-![Anant Kaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anant Kaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantkaul&show_icons=true&theme=radical)
 <img align="bottom" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=anantkaul&show_icons=true&hide_border=true&theme=dracula)" />
 
 [twitter]: https://twitter.com/AnantKaul_
