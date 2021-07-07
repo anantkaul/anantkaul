@@ -16,7 +16,7 @@
 ![Anant Kaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anantkaul&show_icons=true&theme=radical)
 <!--<img align="bottom" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=anantkaul&show_icons=true&hide_border=true&theme=dracula)" />-->
 
-[twitter]: https://twitter.com/AnantKaul_
+[twitter]: https://twitter.com/AnantKaul
 [youtube]: https://www.youtube.com/channel/UC7bflmCt91Om9HlBZDcTAmw
 [instagram]: https://www.instagram.com/anantkaul/
 [linkedin]: https://www.linkedin.com/in/anant-kaul/
