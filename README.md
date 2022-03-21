@@ -6,10 +6,11 @@
 - 👯 I’m looking to collaborate on Cloud, Big Data & Cybersecurity related tools & projects.
 - 🤔 I’m looking for help with everything which enhances my knowledge base.
 - 💬 Ask me about Cloud, Linux, Big Data & Cybersecurity (Engineering).
-- 📫 How to reach me: [<img align="middle" alt="codeSTACKr | Youtube" width="42px" src="https://img.icons8.com/color/youtube" />][youtube]
-                      [<img align="middle" alt="codeSTACKr | Twitter" width="42px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-                      [<img align="middle" alt="codeSTACKr | LinkedIn" width="42px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-                      [<img align="middle" alt="codeSTACKr | Instagram" width="42px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+- 📫 How to reach me: [<img align="middle" alt="Discord" width="42px" src="https://img.icons8.com/color/96/000000/discord-new-logo.png"/>][Discord]
+                      [<img align="middle" alt="Youtube" width="42px" src="https://img.icons8.com/color/youtube" />][youtube]
+                      [<img align="middle" alt="Twitter" width="42px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+                      [<img align="middle" alt="LinkedIn" width="42px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+                      [<img align="middle" alt="Instagram" width="42px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 - 😄 Pronouns: Kali, CEH, Cloud Architect & Data Analyst.
 - ⚡ Fun fact: Combining “Big Data” with “Cybersecurity” using “Cloud” makes it ultra powerful.
 
@@ -20,3 +21,4 @@
 [youtube]: https://www.youtube.com/channel/UC7bflmCt91Om9HlBZDcTAmw
 [instagram]: https://www.instagram.com/anantkaul/
 [linkedin]: https://www.linkedin.com/in/anant-kaul/
+[Discord]: https://discordapp.com/users/4N4N7#8325
